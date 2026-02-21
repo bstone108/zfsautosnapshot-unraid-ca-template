@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+  <PluginURL>https://raw.githubusercontent.com/bstone108/zfsautosnapshot-unraid/main/dist/zfs.autosnapshot.plg</PluginURL>
+  <PluginAuthor>Brandon Stone</PluginAuthor>
+  <Beta>False</Beta>
+  <Category>Backup:Other:</Category>
+  <Name>ZFS Auto Snapshot</Name>
+  <Description>Automated ZFS snapshots for Unraid with plain-English scheduling, retention cleanup, low-space cleanup, and dataset checklist configuration.</Description>
+  <Support>https://forums.unraid.net/topic/197348-plugin-zfs-auto-snapshot/</Support>
+  <Icon>https://raw.githubusercontent.com/bstone108/zfsautosnapshot-unraid/main/dist/zfs-autosnapshot.png</Icon>
+  <Project>https://github.com/bstone108/zfsautosnapshot-unraid</Project>
+  <License>MIT</License>
+  <MinVer>6.11.0</MinVer>
+</Containers>
