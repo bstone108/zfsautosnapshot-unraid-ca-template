@@ -10,5 +10,5 @@
   <Icon>https://raw.githubusercontent.com/bstone108/zfsautosnapshot-unraid/main/dist/zfs-autosnapshot.png</Icon>
   <Project>https://github.com/bstone108/zfsautosnapshot-unraid</Project>
   <License>MIT</License>
-  <MinVer>6.11.0</MinVer>
+  <MinVer>6.12.0</MinVer>
 </Containers>
